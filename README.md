@@ -43,7 +43,7 @@ pip install gradio transformers pandas matplotlib
 git clone https://github.com/your-username/your-repo-name.git
 
 # 进入项目目录
-cd your-repo-name
+cd your-repo-name 
 
 # 运行项目
 python Qwen_token_gradio.py
