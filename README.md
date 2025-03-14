@@ -46,7 +46,7 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 # 运行项目
-python main.py
+python Qwen_token_gradio.py
 ```
 运行后，访问 **[http://localhost:10010](http://localhost:10010)** 即可使用 **Web 界面**。
 
@@ -97,7 +97,6 @@ python main.py
  ├── main.py               # 主程序
  ├── requirements.txt      # 依赖库
  ├── README.md             # 说明文档
- ├── token_distribution.png # 可视化图表
  ├── token_statistics.csv   # 统计结果
 ```
 
